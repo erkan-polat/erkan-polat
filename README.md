@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkan-polat&label=Profile%20views&color=0e75b6&style=flat" alt="erkan-polat" /> </p>
 
+- 🔭 I’m currently working on **mobile software develope**
+
 - 🌱 I’m currently learning **C++/Ros/Python**
 
 - 💬 Ask me about **robotics/artificial Intelligence**
