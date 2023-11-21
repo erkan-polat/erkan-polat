@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Deep-Learning-for-Detecting-Robotic-Grasps](https://github.com/erkan-polat/Deep-Learning-for-Detecting-Robotic-Grasps)
 
-- 🌱 I’m currently learning **Pytohn,C++,JAva**
+- 🌱 I’m currently learning **Python,C++,Java**
 
 - 📫 How to reach me **er_polat@hotmail.com**
 
